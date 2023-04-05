@@ -603,7 +603,7 @@ input, select, textarea {
 				}
 
 				.row > .col-5-xlarge {
-					width: 41.66667%;
+					/* width: 100%; */
 				}
 
 				.row > .off-5-xlarge {
@@ -1149,7 +1149,7 @@ input, select, textarea {
 				}
 
 				.row > .col-12-medium {
-					width: 100%;
+					/* width: 100%; */
 				}
 
 				.row > .off-12-medium {
